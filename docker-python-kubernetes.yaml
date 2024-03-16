@@ -33,4 +33,4 @@ spec:
   ports:
   - port: 5012
     targetPort: 5012
-    nodePort: 30001
+    nodePort: 30012
